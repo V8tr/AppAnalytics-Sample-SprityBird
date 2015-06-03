@@ -1,0 +1,10 @@
+PODS:
+  - AppAnalytics (1.0.0)
+
+DEPENDENCIES:
+  - AppAnalytics (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  AppAnalytics: 625ed364db3d53ea61d19b6f389cb1329a210d18
+
+COCOAPODS: 0.37.2
